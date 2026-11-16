@@ -28,7 +28,7 @@
 | 🍽️ [**Savora QR Digital Menu System**](https://github.com/Ritvik-io/Savora-QR-Digital-Menu-System) | `HTML` |
 | 💊 **DoseMate** | `Flutter` `Dart` `Firebase` `Figma` |
 | 🍔 **DineDash** | `Node.js` `Express` `MongoDB` |
-| 🚪 [**MysticDoor**](https://github.com/Ritvik-io/MysticDoor) | `Unreal Engine` |
+| 🚪 [**MysticDoor**](https://github.com/Ritvik-io/MysticDoor) | — |
 | 🏆 [**Curry Blasters – AMUHACKS 4.0**](https://github.com/Ritvik-io/curry-blasters_AMUHACKS4.0) | `TypeScript` |
 
 > Browse all repositories at [github.com/Ritvik-io](https://github.com/Ritvik-io?tab=repositories).
@@ -44,10 +44,6 @@
 ### 📊 MISSION STATS
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritvik-io&show_icons=true&hide_border=true&bg_color=0b1020&title_color=9d8cff&icon_color=3ee6c4&text_color=cfd8ff"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritvik-io&layout=compact&hide_border=true&bg_color=0b1020&title_color=9d8cff&text_color=cfd8ff"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritvik-io&background=0b1020&ring=7c5cff&fire=ff6fa5&currStreakLabel=3ee6c4&sideLabels=9d8cff&currStreakNum=ffffff&sideNums=ffffff&dates=7c8bd1&stroke=2a3370&border=2a3370" height="170"/>
 
