@@ -28,7 +28,7 @@
 | 🍽️ [**Savora QR Digital Menu System**](https://github.com/Ritvik-io/Savora-QR-Digital-Menu-System) | `HTML` |
 | 💊 **DoseMate** | `Flutter` `Dart` `Firebase` `Figma` |
 | 🍔 **DineDash** | `Node.js` `Express` `MongoDB` |
-| 🚪 [**MysticDoor**](https://github.com/Ritvik-io/MysticDoor) | — |
+| 🚪 [**MysticDoor**](https://github.com/Ritvik-io/MysticDoor) | `Unreal Engine` |
 | 🏆 [**Curry Blasters – AMUHACKS 4.0**](https://github.com/Ritvik-io/curry-blasters_AMUHACKS4.0) | `TypeScript` |
 
 > Browse all repositories at [github.com/Ritvik-io](https://github.com/Ritvik-io?tab=repositories).
