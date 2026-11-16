@@ -21,11 +21,16 @@
 |---|---|---|
 | 🌊 [**FloodSenseAI**](https://github.com/Ritvik-io/FloodSenseAI) | U-Net (~7.8M params) on Sentinel-1 SAR imagery maps flood-inundated areas at pixel level; tested on held-out Bolivia region; FastAPI service, 13 Pytest tests, Leaflet dashboard | `Python` `PyTorch` `FastAPI` `Next.js` `TypeScript` |
 | 🍯 [**HoneyShield**](https://github.com/Ritvik-io/HoneyShield) | Honeytoken threat detection: decoy files, HMAC-SHA256 signed webhooks with replay rejection, explainable weighted risk scoring, incident-response state machine | `Next.js` `TypeScript` `Node.js` |
-| 🛰️ [**Multi-Agent Threat Triage**](https://github.com/Ritvik-io/Multi-Agent-Cybersecurity-Threat-Triage) | Researcher + writer agents combine RAG over PDF reports with live web search for executive threat summaries; Llama 3.2 runs locally | `LangGraph` `LangChain` `Ollama` `FAISS` `Streamlit` |
-| 💊 [**DoseMate**](https://github.com/Ritvik-io/DoseMate) | Cross-platform medication reminder & tracker with real-time cloud sync; designed in Figma | `Flutter` `Dart` `Firebase` `Figma` |
-| 🍔 [**DineDash**](https://github.com/Ritvik-io/DineDash) | Real-time hotel food ordering that sends orders straight to kitchen terminals | `Node.js` `Express` `MongoDB` |
+| 🛰️ [**multiagent-threat-triage**](https://github.com/Ritvik-io/multiagent-threat-triage) | Local, privacy-first multi-agent system for cybersecurity threat triage and executive reporting, using RAG over PDFs plus live DuckDuckGo search | `LangGraph` `Ollama` `Llama 3.2` `FAISS` `Streamlit` |
+| ⚡ [**ENER-GUARD**](https://github.com/Ritvik-io/ENER-GUARD) | Energy-focused project | `TypeScript` |
+| ⚖️ [**FairShift**](https://github.com/Ritvik-io/FairShift) | TypeScript project | `TypeScript` |
+| 🍽️ [**Savora QR Digital Menu System**](https://github.com/Ritvik-io/Savora-QR-Digital-Menu-System) | User-friendly QR digital menu with an enhanced customer-facing UI | `HTML` |
+| 💊 **DoseMate** | Cross-platform medication reminder & tracker with real-time cloud sync; designed in Figma | `Flutter` `Dart` `Firebase` `Figma` |
+| 🍔 **DineDash** | Real-time hotel food ordering that sends orders straight to kitchen terminals | `Node.js` `Express` `MongoDB` |
+| 🚪 [**MysticDoor**](https://github.com/Ritvik-io/MysticDoor) | Early project (Apr 2025) | — |
+| 🏆 [**curry-blasters_AMUHACKS4.0**](https://github.com/Ritvik-io/curry-blasters_AMUHACKS4.0) | AMUHACKS 4.0 hackathon project (fork) | `TypeScript` |
 
-> If a repo name differs from the links above, update the URL.
+> Browse everything at [github.com/Ritvik-io?tab=repositories](https://github.com/Ritvik-io?tab=repositories).
 
 ---
 
